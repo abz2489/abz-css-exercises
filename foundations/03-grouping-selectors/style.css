@@ -1,0 +1,14 @@
+.dark-side,
+.light-side {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif
+}
+
+.dark-side {
+    background-color: #0a0a0a;
+    color: rgb(247, 241, 241);
+}
+
+.light-side {
+    background-color: yellow;
+}
